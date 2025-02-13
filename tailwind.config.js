@@ -6,7 +6,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        teko: ['Teko', 'sans-serif']
+        // teko: ['Teko', 'sans-serif'],
+        sans: ['IBM Plex Sans','Helvetica','Arial','sans-serif']
       }
     },
   },

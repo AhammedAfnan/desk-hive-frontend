@@ -15,7 +15,7 @@ export default function Navbar() {
             </Link>
           </div>
 
-          <div className='hidden md:flex items-center space-x-12 text-2xl font-teko relative'>
+          <div className='hidden md:flex items-center space-x-12 text-2xl relative'>
             <div className="relative">
               <button
               onMouseEnter={()=> setIsWorkspaceOpen(true)}
